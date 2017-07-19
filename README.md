@@ -1,0 +1,2 @@
+# autocospio
+Automatizacion de telescopio
